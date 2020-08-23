@@ -4,6 +4,8 @@
  *
  * мне эта презентация кажется наиболее понятной
  * https://myslide.ru/presentation/520550_skachat-iskusstvennye-nejronnye-seti
+ * тут ваще круто все расписано
+ * https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/
  *
  * 1)нужно написать функции для активации слоя, поиска ошибки и изменения веса
  * 2)далее можно испытать другие функции активации
